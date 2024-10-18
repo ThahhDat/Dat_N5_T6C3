@@ -63,6 +63,8 @@
 
 <h3 align="left">💻 Công Nghệ & Công Cụ</h3>
 
+--
+
 <h4 align="left">Phát triển Frontend:</h4>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -79,6 +81,8 @@
   </a>
 </p>
 
+-
+
 <h4 align="left">Phát triển Backend:</h4>
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
@@ -92,12 +96,16 @@
   </a>
 </p>
 
+-
+
 <h4 align="left">DevOps & Containerization:</h4>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a>
 </p>
+
+-
 
 <h4 align="left">Công cụ Khác:</h4>
 <p align="left">

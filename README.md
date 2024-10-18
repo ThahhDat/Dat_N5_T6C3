@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thahhdat" alt="thahhdat" /></a> </p>
 
-- 💬 Ask me about **React , Nodejs**
+- 💬 Ask me about **React, Node.js**
 
 - 📫 How to reach me **datdat210704@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,3 +26,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thahhdat&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=b989e1&locale=en&layout=compact" alt="thahhdat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thahhdat&theme=highcontrast" alt="thahhdat" /></p>
+
+<h3 align="center">Thank you for visiting!</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Mbk3K7X9QYm2q1u/giphy.gif" alt="Thank you" width="300" height="200" />
+</p>

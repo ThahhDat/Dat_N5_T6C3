@@ -63,7 +63,7 @@
 
 <h3 align="left">💻 Công Nghệ & Công Cụ</h3>
 
---
+---
 
 <h4 align="left">Phát triển Frontend:</h4>
 <p align="left">
@@ -81,7 +81,7 @@
   </a>
 </p>
 
--
+---
 
 <h4 align="left">Phát triển Backend:</h4>
 <p align="left">
@@ -96,7 +96,7 @@
   </a>
 </p>
 
--
+---
 
 <h4 align="left">DevOps & Containerization:</h4>
 <p align="left">
@@ -105,7 +105,7 @@
   </a>
 </p>
 
--
+---
 
 <h4 align="left">Công cụ Khác:</h4>
 <p align="left">

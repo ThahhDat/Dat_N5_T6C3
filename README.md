@@ -111,8 +111,21 @@
 ---
 
 
+<h3 align="center">Contact Me</h3>
+<p align="center">
+  If you have any questions, ideas, or just want to chat, feel free to reach out to me! 
+  I'm always open to new opportunities and collaborations.
+</p>
+<p align="center">
+  📧 <strong>Email:</strong> datdat210704@gmail.com
+</p>
+
+---
+
+
 <h3 align="left">Thank you for visiting!</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/26gJvUJ7VYqC2c8Xy/giphy.gif" alt="Thank you" width="300" height="200" />
+  <img src="https://media.giphy.com/media/3o7btQ2PnlHoLzD5u0/giphy.gif" alt="Thank you" width="400" height="300" />
 </p>
+
 

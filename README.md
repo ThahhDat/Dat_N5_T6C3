@@ -117,7 +117,7 @@
   I'm always open to new opportunities and collaborations.
 </p>
 <p align="left">
-  📧 <strong>Email:</strong> datdat210704@gmail.com
+  📧 <strong>Email:</strong> <a href="mailto:datdat210704@gmail.com">datdat210704@gmail.com</a>
 </p>
 
 ---

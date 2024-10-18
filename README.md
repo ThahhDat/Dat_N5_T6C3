@@ -1,13 +1,13 @@
-<h1 align="left">Hi 👋, I'm Trần Thành Đạt</h1>
-<h3 align="left">An IT enthusiast living in Vietnam, currently studying at the University of Foreign Languages and Information Technology.</h3>
+<h1 align="center">Hi 👋, I'm Trần Thành Đạt</h1>
+<h3 align="center">An IT enthusiast living in Vietnam, currently studying at the University of Foreign Languages and Information Technology.</h3>
 
 ---
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=thahhdat&label=Profile%20views&color=0e75b6&style=flat" alt="thahhdat" /> 
 </p>
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=thahhdat" alt="thahhdat" />
   </a> 
@@ -15,7 +15,7 @@
 
 ---
 
-<p align="left">
+<p align="center">
   <strong>- 💬 Ask me about:</strong> <em>React, Node.js</em><br>
   <strong>- 📫 How to reach me:</strong> <em>datdat210704@gmail.com</em><br>
   <strong>- ⚡ Fun fact:</strong> <em>I think I am funny</em>
@@ -23,8 +23,8 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://linkedin.com/in/dat-tran-20652a2b0" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dat-tran-20652a2b0" height="30" width="40" />
   </a>
@@ -44,8 +44,8 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a>
@@ -92,15 +92,15 @@
 
 ---
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thahhdat&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=b989e1&locale=en&layout=compact" alt="thahhdat" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thahhdat&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=b989e1&locale=en&layout=compact" alt="thahhdat" />
 </p>
 
-<p align="left">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thahhdat&theme=highcontrast" alt="thahhdat" />
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thahhdat&theme=highcontrast" alt="thahhdat" />
 </p>
 
-<br />
+---
 
 <h3 align="center">Thank you for visiting!</h3>
 <p align="center">

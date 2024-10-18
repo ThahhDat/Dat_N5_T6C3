@@ -1,5 +1,5 @@
 <h1 align="center">Xin chào 👋, tôi là Đạt</h1>
-<h3 align="center">Một người đam mê CNTT sống ở Việt Nam, hiện đang học tại Đại học Ngoại ngữ và Tin học.</h3>
+<h3 align="center">Một người đam mê CNTT sống ở Việt Nam, hiện đang học tại Trường Đại học Ngoại ngữ - Tin học Thành phố Hồ Chí Minh (HUFLIT).</h3>
 
 ---
 

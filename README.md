@@ -94,11 +94,11 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thahhdat&theme=highcontrast" alt="thahhdat" />
 </p>
 
-https://media.giphy.com/media/uWlpPGquhGZNFzY90z/giphy.gif?cid=790b7611m098086xykl4ov4kkaqx1pjvm38qas3wsycktbw3&ep=v1_gifs_search&rid=giphy.gif&ct=g
+
 ---
 
 
 <h3 align="center">Thank you for visiting!</h3>
 <p align="center">
-  <img src="[https://media.giphy.com/media/3o6Mbk3K7X9QYm2q1u/giphy.gif](https://media.giphy.com/media/uWlpPGquhGZNFzY90z/giphy.gif)" alt="Thank you" width="300" height="200" />
+  <img src="https://media.giphy.com/media/3o6Mbk3K7X9QYm2q1u/giphy.gif" alt="Thank you" width="300" height="200" />
 </p>

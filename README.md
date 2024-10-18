@@ -3,25 +3,35 @@
 
 ---
 
-<h3 align="left">Về Tôi</h3>
-<p align="left">
-  Tôi là một người hòa đồng và thích chơi nhiều môn thể thao, đặc biệt là bóng đá và cầu lông. Tôi tin rằng thể thao không chỉ giúp chúng ta giữ gìn sức khỏe mà còn xây dựng những tình bạn vững bền và kỹ năng làm việc nhóm.
-  <br>
-  Trong thời gian rảnh, tôi thích thách thức bản thân với các dự án lập trình mới và khám phá các công nghệ mới nhất. Tôi luôn háo hức học hỏi và phát triển trong lĩnh vực CNTT!
-</p>
-
-<p align="left">Tôi đam mê công nghệ và thích khám phá các ngôn ngữ lập trình và framework mới. Hiện tại, tôi đang tập trung vào phát triển web với React và Node.js, và tôi rất háo hức học hỏi thêm về Docker và containerization.</p>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=thahhdat&label=Profile%20views&color=0e75b6&style=flat" alt="thahhdat" /> 
+<h2 align="center">📑 Mục Lục</h2>
+<p align="center">
+  <a href="#về-tôi">Về Tôi</a> •
+  <a href="#liên-hệ-với-tôi">Liên Hệ Với Tôi</a> •
+  <a href="#công-nghệ--công-cụ">Công Nghệ & Công Cụ</a> •
+  <a href="#cảm-ơn-bạn-đã-ghé-thăm">Cảm Ơn Bạn Đã Ghé Thăm</a>
 </p>
 
 ---
 
-<p align="left"> 
+<h3 align="left">Về Tôi</h3>
+<p align="left">
+  Tôi là một người hòa đồng và thích chơi nhiều môn thể thao, đặc biệt là bóng đá và cầu lông. Tôi tin rằng thể thao không chỉ giúp chúng ta giữ gìn sức khỏe mà còn tạo ra những mối quan hệ quý giá. Trong thời gian rảnh, tôi thích thách thức bản thân với các dự án lập trình mới và khám phá các công nghệ mới nhất. Tôi luôn háo hức học hỏi và phát triển.
+</p>
+<p align="left">
+  Tôi đam mê công nghệ và thích khám phá các ngôn ngữ lập trình và framework mới. Hiện tại, tôi đang tập trung vào phát triển web với React và Node.js.
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=thahhdat&label=Profile%20views&color=0e75b6&style=flat" alt="thahhdat" />
+</p>
+
+---
+
+<h3 align="left">🏆 Thành Tựu</h3>
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=thahhdat" alt="thahhdat" />
-  </a> 
+  </a>
 </p>
 
 <p>- 💬 Hãy hỏi tôi về <strong>React, Node.js, Docker</strong></p>
@@ -30,7 +40,7 @@
 
 ---
 
-<h3 align="left">Kết nối với tôi:</h3>
+<h3 align="left">📫 Liên Hệ Với Tôi</h3>
 <p align="left">
   <a href="https://linkedin.com/in/dat-tran-20652a2b0" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dat-tran-20652a2b0" height="30" width="40" />
@@ -51,7 +61,7 @@
 
 ---
 
-<h3 align="left">Công nghệ & Công cụ:</h3>
+<h3 align="left">💻 Công Nghệ & Công Cụ</h3>
 
 <h4 align="left">Phát triển Frontend:</h4>
 <p align="left">
@@ -111,8 +121,7 @@
 
 <h3 align="left">Liên Hệ Với Tôi</h3>
 <p align="left">
-  Nếu bạn có bất kỳ câu hỏi, ý tưởng, hoặc chỉ muốn trò chuyện, hãy thoải mái liên hệ với tôi! 
-  Tôi luôn mở lòng với những cơ hội và sự hợp tác mới.
+  Nếu bạn có bất kỳ câu hỏi, ý tưởng, hoặc chỉ muốn trò chuyện, hãy thoải mái liên hệ với tôi! Tôi luôn mở lòng với những cơ hội và sự hợp tác mới.
 </p>
 <p align="left">
   📧 <strong>Email:</strong> <a href="mailto:datdat210704@gmail.com">datdat210704@gmail.com</a>
@@ -120,8 +129,10 @@
 
 ---
 
-<h3 align="left">Cảm ơn bạn đã ghé thăm!</h3>
+<h3 align="center">Cảm Ơn Bạn Đã Ghé Thăm!</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/uWlpPGquhGZNFzY90z/giphy.gif" width="480" height="350" alt="Cảm ơn" />
+  <iframe src="https://giphy.com/embed/uWlpPGquhGZNFzY90z" width="480" height="350" style="border: none;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </p>
-
+<p align="center">
+  <a href="https://giphy.com/gifs/moodman-thank-u-wlpPGquhGZNFzY90z">Xem trên Giphy</a>
+</p>

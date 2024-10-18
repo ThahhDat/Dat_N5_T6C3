@@ -101,8 +101,7 @@
 </p>
 
 ---
-
-<h3 align="left">Thank you for visiting!</h3>
-<p align="left">
+<h3 align="center">Thank you for visiting!</h3>
+<p align="center">
   <img src="https://media.giphy.com/media/3o6Mbk3K7X9QYm2q1u/giphy.gif" alt="Thank you" width="300" height="200" />
 </p>

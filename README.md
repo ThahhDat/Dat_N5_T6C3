@@ -122,5 +122,5 @@
 
 <h3 align="left">Cảm ơn bạn đã ghé thăm!</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btQ2PnlHoLzD5u0/giphy.gif" alt="Cảm ơn" width="400" height="300" />
+ <iframe src="https://giphy.com/embed/uWlpPGquhGZNFzY90z" width="480" height="350" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/moodman-thank-you-funny-uWlpPGquhGZNFzY90z">via GIPHY</a></p>
 </p>

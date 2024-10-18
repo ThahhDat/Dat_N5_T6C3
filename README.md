@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Trần Thành Đạt</h1>
 <h3 align="center">An IT enthusiast living in Vietnam, currently studying at the University of Foreign Languages and Information Technology.</h3>
 
+---
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=thahhdat&label=Profile%20views&color=0e75b6&style=flat" alt="thahhdat" /> 
 </p>
@@ -14,6 +16,8 @@
 <p>- 💬 Ask me about <strong>React, Node.js</strong></p>
 <p>- 📫 How to reach me: <strong>datdat210704@gmail.com</strong></p>
 <p>- ⚡ Fun fact: <strong>I think I am funny</strong></p>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,6 +37,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="da.thah" height="30" width="40" />
   </a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -88,7 +94,11 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thahhdat&theme=highcontrast" alt="thahhdat" />
 </p>
 
+https://media.giphy.com/media/uWlpPGquhGZNFzY90z/giphy.gif?cid=790b7611m098086xykl4ov4kkaqx1pjvm38qas3wsycktbw3&ep=v1_gifs_search&rid=giphy.gif&ct=g
+---
+
+
 <h3 align="center">Thank you for visiting!</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Mbk3K7X9QYm2q1u/giphy.gif" alt="Thank you" width="300" height="200" />
+  <img src="[https://media.giphy.com/media/3o6Mbk3K7X9QYm2q1u/giphy.gif](https://media.giphy.com/media/uWlpPGquhGZNFzY90z/giphy.gif)" alt="Thank you" width="300" height="200" />
 </p>

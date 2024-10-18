@@ -111,12 +111,12 @@
 ---
 
 
-<h3 align="center">Contact Me</h3>
-<p align="center">
+<h3 align="left">Contact Me</h3>
+<p align="left">
   If you have any questions, ideas, or just want to chat, feel free to reach out to me! 
   I'm always open to new opportunities and collaborations.
 </p>
-<p align="center">
+<p align="left">
   📧 <strong>Email:</strong> datdat210704@gmail.com
 </p>
 

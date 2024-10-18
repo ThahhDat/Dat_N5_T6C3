@@ -24,6 +24,10 @@
 <p>- 📫 How to reach me: <strong>datdat210704@gmail.com</strong></p>
 <p>- ⚡ Fun fact: <strong>I think I am funny</strong></p>
 
+
+---
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/dat-tran-20652a2b0" target="blank">
@@ -42,6 +46,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="da.thah" height="30" width="40" />
   </a>
 </p>
+
+
+---
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -96,6 +104,10 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thahhdat&theme=highcontrast" alt="thahhdat" />
 </p>
+
+
+---
+
 
 <h3 align="left">Thank you for visiting!</h3>
 <p align="left">

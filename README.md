@@ -112,6 +112,7 @@
 
 
 <h3 align="left">Thank you for visiting!</h3>
-<p align="left">
-  <img src="https://media.giphy.com/media/3o6Mbk3K7X9QYm2q1u/giphy.gif" alt="Thank you" width="300" height="200" />
+<p align="center">
+  <img src="https://media.giphy.com/media/26gJvUJ7VYqC2c8Xy/giphy.gif" alt="Thank you" width="300" height="200" />
 </p>
+

@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Đạt</h1>
 <h3 align="center">An IT enthusiast living in Vietnam, currently studying at the University of Foreign Languages and Information Technology.</h3>
 
-<h3 align="center">About Me</h3>
-<p align="center">
+<h3 align="left">About Me</h3>
+<p align="left">
   I am a sociable person who enjoys playing various sports, especially football and badminton. I believe that sports not only keep us fit but also help build strong friendships and teamwork skills. 
   <br>
   In my free time, I like to challenge myself with new coding projects and explore the latest technologies. I am always eager to learn and grow in the IT field!
 </p>
 
-<p align="center">I have a passion for technology and love to explore new programming languages and frameworks. I'm currently focused on web development with React and Node.js, and I'm excited to learn more about Docker and containerization.</p>
+<p align="left">I have a passion for technology and love to explore new programming languages and frameworks. I'm currently focused on web development with React and Node.js, and I'm excited to learn more about Docker and containerization.</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=thahhdat&label=Profile%20views&color=0e75b6&style=flat" alt="thahhdat" /> 
@@ -97,7 +97,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thahhdat&theme=highcontrast" alt="thahhdat" />
 </p>
 
-<h3 align="center">Thank you for visiting!</h3>
-<p align="center">
+<h3 align="left">Thank you for visiting!</h3>
+<p align="left">
   <img src="https://media.giphy.com/media/3o6Mbk3K7X9QYm2q1u/giphy.gif" alt="Thank you" width="300" height="200" />
 </p>
